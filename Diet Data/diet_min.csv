@@ -1,4 +1,4 @@
-﻿Nutrients,Units,F 19-30 (Cut),M 19-30 (Cut),F 19-30 (Bulk),M 19-30 (Bulk)
+﻿Nutrients,Units,F 18-22 (Cut),M 18-22 (Cut),F 18-22 (Bulk),M 18-22 (Bulk)
 Energy,kcal,2100,2550,2750,3300
 Protein,g,160,210,130,170
 "Fiber, total dietary",g,30,35,40,45
@@ -12,7 +12,7 @@ Protein,g,160,210,130,170
 Vitamin B-12,mcg,2.4,2.4,2.4,2.4
 Vitamin B-6,mg,1.3,1.3,1.3,1.3
 "Vitamin C, total ascorbic acid",mg,75,90,500,750
-Vitamin E (alpha-tocopherol),mg,15,15,400,400
+Vitamin E (alpha-tocopherol),mg,15,15,40,40
 Vitamin K (phylloquinone),mcg,90,120,90,120
 "Zinc, Zn",mg,8,11,8,11
 Total lipid (fat),g,52.5,65,55,75
